@@ -1,0 +1,13 @@
+0.18.2
+- Changed solar panel graphics
+- Added remnants for every tier
+- Accumulators emit differently colored light now
+
+0.18.1
+- Rebalancing
+- Added a startup setting to change how high they scale (this won't make them any cheaper)
+- Added an api to market2 to recalculate the prices when the scaling was changed
+- Solar panels and accumulators have their own group now
+- Added fast-replaceable groups to accumulators and solar panels
+- New graphics for accumulators & vanilla solar panel
+- Upgrade planner support
